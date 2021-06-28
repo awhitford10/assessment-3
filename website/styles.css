@@ -1,0 +1,38 @@
+.myflex {
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.myimage{
+    max-height: 383px;
+    max-width: 286px;
+    border: 5px solid #555;
+    
+
+}
+
+.inner_box{
+    
+    padding: 100px 10px 10px 10px;
+}
+
+.test{
+    background-color: aquamarine;
+}
+
+.main_image_box{
+    margin:auto;
+    border-width: 5px;
+    border-style: outset;
+    width: 1000px;
+    height: 700px;
+    overflow: hidden;
+
+
+}
+/* .main_picture{
+    
+} */
